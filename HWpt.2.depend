@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1506198570 source:g:\fall 2017\cosc 2\hwpt.2\collection.cpp
+	<iostream>
+	"Collection.h"
+	"Object.h"
+
+1506198982 g:\fall 2017\cosc 2\hwpt.2\collection.h
+	"OBJECT.H"
+
+1506197644 g:\fall 2017\cosc 2\hwpt.2\object.h
+
